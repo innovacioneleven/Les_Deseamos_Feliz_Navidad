@@ -8,10 +8,6 @@ canvas{
     z-index: -1;
 }
 
-a-scene{
-    position: absolute;
-
-}
 
 .sound{
     display: flex;
